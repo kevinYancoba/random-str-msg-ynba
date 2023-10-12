@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-ynba",
+  "version": "1.0.0",
+  "description": "packageNPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinYancoba/random-str-msg-ynba.git"
+  },
+  "keywords": [],
+  "author": "kevinYnba <kevquiej@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-ynba": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
